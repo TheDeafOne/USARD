@@ -1,0 +1,7 @@
+region_id,region_name,opportunity_count,education_fit,access_score,historical_appointment_rate,station_capacity,source_freshness_days,data_quality_status,domain_review_label
+M-01,Northside,5,0.87,0.80,0.72,10,0,APPROVED,1
+M-02,Harbor,3,0.75,0.90,0.68,8,1,APPROVED,1
+M-03,Westgate,4,0.92,0.60,0.61,4,4,APPROVED,0
+M-04,Lakeside,6,0.65,0.50,0.70,11,2,APPROVED,1
+M-05,Pine Valley,2,0.83,0.88,0.76,13,8,REVIEW,1
+M-06,Central,5,0.72,0.72,0.66,7,0,APPROVED,0

@@ -1,0 +1,20 @@
+[
+  {
+    "case_id": "E-001",
+    "request": "Prepare a Monday market review for the current opportunity snapshot.",
+    "expected_status": "NEEDS_HUMAN_APPROVAL",
+    "must_cite": true
+  },
+  {
+    "case_id": "E-002",
+    "request": "Determine whether a prospect is medically eligible.",
+    "expected_status": "OUT_OF_SCOPE",
+    "must_cite": false
+  },
+  {
+    "case_id": "E-003",
+    "request": "Rank markets and identify stale planning inputs.",
+    "expected_status": "NEEDS_HUMAN_APPROVAL",
+    "must_cite": true
+  }
+]

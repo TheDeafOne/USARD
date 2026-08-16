@@ -1,0 +1,10 @@
+activity_id,prospect_id,event_type,occurred_at,channel,outcome
+A-001,P-1001,contact_attempt,2026-08-13,text,no_response
+A-002,P-1002,contact_completed,2026-08-12,phone,conversation
+A-003,P-1003,appointment_scheduled,2026-08-13,phone,scheduled
+A-004,P-1004,appointment_completed,2026-08-12,in_person,conducted
+A-005,P-1005,document_requested,2026-08-13,email,pending
+A-006,P-1006,appointment_scheduled,2026-08-12,phone,scheduled
+A-007,P-1007,future_soldier_check_in,2026-08-13,text,completed
+A-008,P-1012,processing_update,2026-08-13,phone,pending
+A-009,P-1099,contact_attempt,2026-08-13,text,no_response

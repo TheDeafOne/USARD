@@ -1,0 +1,7 @@
+campaign_lead_id,prospect_id,campaign_name,captured_at,source_code
+C-001,P-1001,August Web Inquiry,2026-08-12,WEB_FORM
+C-002,P-1002,Community Referral,2026-08-11,WEB_FORM
+C-003,P-1003,Northside School Event,2026-08-10,SCHOOL_EVENT
+C-004,P-1006,August Web Inquiry,2026-08-10,WEB_FORM
+C-005,P-1007,Community Referral,2026-08-09,REFERRAL
+C-006,P-1013,Northside School Event,2026-08-12,SCHOOL_EVENT

@@ -1,0 +1,10 @@
+source,severity,rule,issue_count
+CRM pipeline,HIGH,future_stage_date,1
+CRM pipeline,HIGH,missing_stage_date,1
+CRM pipeline,HIGH,unmapped_stage,1
+CRM pipeline,MEDIUM,duplicate_prospect_id,1
+CRM pipeline,MEDIUM,invalid_zip,1
+Campaign leads,MEDIUM,campaign_without_crm_record,1
+Campaign leads,MEDIUM,source_conflict,1
+Recruiter activity,HIGH,activity_ahead_of_crm_stage,1
+Recruiter activity,HIGH,activity_without_crm_record,1

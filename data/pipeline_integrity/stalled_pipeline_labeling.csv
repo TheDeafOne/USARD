@@ -1,0 +1,9 @@
+case_id,prospect_id,evidence,analyst_a_label,analyst_b_label
+L-001,P-1001,Two unsuccessful contact attempts with no response in seven days,contact_lapse,contact_lapse
+L-002,P-1003,Appointment is scheduled but no confirmation activity is present,scheduling_delay,needs_human_review
+L-003,P-1004,Appointment completed activity is present but CRM remains at lead,system_reconciliation,system_reconciliation
+L-004,P-1005,Requested document is pending and the stage date is missing,processing_delay,processing_delay
+L-005,P-1006,Duplicate CRM records report equivalent appointment stages,system_reconciliation,system_reconciliation
+L-006,P-1008,Contacted record has an invalid ZIP code,data_quality_issue,data_quality_issue
+L-007,P-1009,CRM stage is not defined in the reference table,data_quality_issue,data_quality_issue
+L-008,P-1010,Appointment date occurs after the Friday data pull,data_quality_issue,needs_human_review

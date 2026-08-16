@@ -1,0 +1,7 @@
+# USARD Day 2 Technical Labs
+
+We're trying to incorporate AI into your workflow in order to make you faster than ever before. This requires changing how you work a bit though. While AI provides incredible benefits, utilizing it in an effective way requires changing how you interact with code. Defining incremental, easily verified tasks, is fundamental to actually extracting any benefits of AI. Think R.O.A.D.. Get the big picture first and break that down. 
+
+Lets say you want better weekly recruitment planning. What are the constituent pieces of that? Perhaps something like: data gathering/cleaning/organization, analytics, decisions, documentation for leadership. For each major portion, break down into even smaller tasks. At this point, maybe you don't have all the info. To get a better picture of what you need to break things down, you can ideate and iterate with an LLM. Then, once you feel like you've got a grasp on the necessary portions of this, define the tasks and use an LLM to implement them, verifying each along the way. 
+
+Verification is crucial to good results. ChatGPT and other LLMs make assumptions, fill in gaps incorrectly, or even just make mistakes. Depending on the size of the task, it might be worthwhile to look through the code. If the task is large and a lot of code is generated, then validate the outputs and interrogate your LLM instead. 

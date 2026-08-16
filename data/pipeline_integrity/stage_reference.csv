@@ -1,0 +1,12 @@
+raw_stage,canonical_stage,stage_rank,is_terminal
+New Prospect,LEAD,1,false
+Lead,LEAD,1,false
+Contacted,CONTACTED,2,false
+Appointment Scheduled,APPOINTMENT_SCHEDULED,3,false
+Appt Set,APPOINTMENT_SCHEDULED,3,false
+Appointment Completed,APPOINTMENT_COMPLETED,4,false
+Applicant,PROCESSING,5,false
+Processing,PROCESSING,5,false
+Contracted,CONTRACTED,6,false
+Future Soldier,FUTURE_SOLDIER,7,false
+Closed - Declined,CLOSED,8,true
